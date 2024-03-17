@@ -24,7 +24,7 @@
 
   ## 📊 GitHub Stats:
 
-| <a href="https://github.com/suhelarmankhan"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=suhelarmankhan&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)" alt="Suhel's github stats" /></a> | <a href="https://github.com/mksakib"><img align="center" src="https://github-readme-stats.vercel.app/api?username=suhelarmankhan&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Suhel's github stats" /></a> | 
+| <a href="https://github.com/suhelarmankhan"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=suhelarmankhan&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)" alt="Suhel's github stats" /></a> | <a href="https://github.com/suhelarmankhan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=suhelarmankhan&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Suhel's github stats" /></a> | 
 | :------------- | :-------------: |
 | <a href="https://github.com/suhelarmankhan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhelarmankhan&layout=compact&theme=tokyonight&hide_border=true" /></a>  | <b>Surround yourself with those who bring out the best in you and share your joy<br /></b> |
 
